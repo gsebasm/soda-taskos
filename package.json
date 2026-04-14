@@ -1,0 +1,11 @@
+{
+  "name": "soda-taskos",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@railway/cli": "^4.36.1"
+  }
+}
